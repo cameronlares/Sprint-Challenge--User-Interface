@@ -305,7 +305,20 @@ footer  {
         margin-top: 4%;
         }
 
+        footer  {
+            display: flex;
+            flex-direction: column;
+            height: 10rem;
+            align-items: center;
+        }
 
+        footer nav {
+            display: flex;
+            flex-direction: column;
+            height: 10rem;
+            align-items: center;
+        }
+        
 }
 
 
