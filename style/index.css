@@ -187,3 +187,33 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+/*Media Queries */
+
+@media(max-width:800px){
+    body{
+        background-color: chartreuse;
+    }
+    .middle-content .boxes{
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: column;
+        height: 700px;
+        width: 900px;
+        justify-content: space-between;
+        align-items: center;
+        
+        
+    }
+       
+
+}
+
+
+
+
+
+
+
+
+/*Media Queries */
