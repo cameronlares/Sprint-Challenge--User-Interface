@@ -290,6 +290,22 @@ footer  {
 }
 
 
+
+.bottom-content {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-content: center;
+    
+    }
+
+
+    .bottom-content .text-container{
+        flex-basis: 85%;
+        margin-top: 4%;
+        }
+
+
 }
 
 
